@@ -1,0 +1,13 @@
+/* GLOBAL STYLES*/
+body {
+    font-family: 'Segoe UI', Tahoma;
+    background-color: #c83ca5;
+}
+
+/* MEDIA QUERY (medium) */
+
+@media (min-width: 600px) {
+    body {
+        background-color: rgb(228, 220, 237);
+    }
+}
